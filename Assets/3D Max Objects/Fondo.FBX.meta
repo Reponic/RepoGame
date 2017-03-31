@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 29b04e8eac4c89c45bb100491a9b4671
+timeCreated: 1483425607
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CajaM1Fondo
+    100002: CajaM1Fondo001
+    100004: CajaM2Fondo
+    100006: CajaM2Fondo001
+    100008: CajaM3Fondo
+    100010: CajaM3Fondo001
+    100012: CajaM4Fondo
+    100014: CajaM4Fondo001
+    100016: CajaM5Fondo
+    100018: CajaM5Fondo001
+    100020: ConeM1Fondo
+    100022: ConeM1Fondo001
+    100024: ConeM2Fondo
+    100026: ConeM2Fondo001
+    100028: //RootNode
+    100030: FondoFondo
+    400000: CajaM1Fondo
+    400002: CajaM1Fondo001
+    400004: CajaM2Fondo
+    400006: CajaM2Fondo001
+    400008: CajaM3Fondo
+    400010: CajaM3Fondo001
+    400012: CajaM4Fondo
+    400014: CajaM4Fondo001
+    400016: CajaM5Fondo
+    400018: CajaM5Fondo001
+    400020: ConeM1Fondo
+    400022: ConeM1Fondo001
+    400024: ConeM2Fondo
+    400026: ConeM2Fondo001
+    400028: //RootNode
+    400030: FondoFondo
+    2300000: CajaM1Fondo
+    2300002: CajaM1Fondo001
+    2300004: CajaM2Fondo
+    2300006: CajaM2Fondo001
+    2300008: CajaM3Fondo
+    2300010: CajaM3Fondo001
+    2300012: CajaM4Fondo
+    2300014: CajaM4Fondo001
+    2300016: CajaM5Fondo
+    2300018: CajaM5Fondo001
+    2300020: ConeM1Fondo
+    2300022: ConeM1Fondo001
+    2300024: ConeM2Fondo
+    2300026: ConeM2Fondo001
+    2300028: FondoFondo
+    3300000: CajaM1Fondo
+    3300002: CajaM1Fondo001
+    3300004: CajaM2Fondo
+    3300006: CajaM2Fondo001
+    3300008: CajaM3Fondo
+    3300010: CajaM3Fondo001
+    3300012: CajaM4Fondo
+    3300014: CajaM4Fondo001
+    3300016: CajaM5Fondo
+    3300018: CajaM5Fondo001
+    3300020: ConeM1Fondo
+    3300022: ConeM1Fondo001
+    3300024: ConeM2Fondo
+    3300026: ConeM2Fondo001
+    3300028: FondoFondo
+    4300000: FondoFondo
+    4300002: CajaM1Fondo
+    4300004: CajaM2Fondo
+    4300006: CajaM3Fondo
+    4300008: CajaM4Fondo
+    4300010: CajaM5Fondo
+    4300012: ConeM1Fondo
+    4300014: ConeM2Fondo
+    4300016: CajaM1Fondo001
+    4300018: CajaM2Fondo001
+    4300020: CajaM3Fondo001
+    4300022: CajaM4Fondo001
+    4300024: CajaM5Fondo001
+    4300026: ConeM1Fondo001
+    4300028: ConeM2Fondo001
+    6400000: CajaM1Fondo
+    6400002: CajaM1Fondo001
+    6400004: CajaM2Fondo
+    6400006: CajaM2Fondo001
+    6400008: CajaM3Fondo
+    6400010: CajaM3Fondo001
+    6400012: CajaM4Fondo
+    6400014: CajaM4Fondo001
+    6400016: CajaM5Fondo
+    6400018: CajaM5Fondo001
+    6400020: ConeM1Fondo
+    6400022: ConeM1Fondo001
+    6400024: ConeM2Fondo
+    6400026: ConeM2Fondo001
+    6400028: FondoFondo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
